@@ -1,0 +1,10 @@
+ID: 1, Nume: Andrei, Joc: CS:GO, Punctaj: 50, Taxa: 80, Statut: inactiv
+ID: 2, Nume: Mihai, Joc: CS:GO, Punctaj: 100, Taxa: 80, Statut: activ
+ID: 3, Nume: Gabriela, Joc: CS:GO, Punctaj: 80, Taxa: 80, Statut: activ
+ID: 4, Nume: Ana , Joc: FIFA, Punctaj: 75, Taxa: 100, Statut: activ
+ID: 5, Nume: George, Joc: FIFA, Punctaj: 90, Taxa: 100, Statut: activ
+ID: 6, Nume: Mircea , Joc: FIFA, Punctaj: 100, Taxa: 100, Statut: inactiv
+ID: 7, Nume: Raluca, Joc: LOL, Punctaj: 40, Taxa: 120, Statut: inactiv
+ID: 8, Nume: Ema, Joc: LOL, Punctaj: 75, Taxa: 120, Statut: activ
+ID: 9, Nume: Paul, Joc: LOL, Punctaj: 100, Taxa: 120, Statut: activ
+ID: 10, Nume: Ion, Joc: CS:GO, Punctaj: 75, Taxa: 80, Statut: activ

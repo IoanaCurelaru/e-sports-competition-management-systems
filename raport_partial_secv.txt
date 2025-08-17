@@ -1,0 +1,4 @@
+Nr. crt.  ID     Nume                           Joc                         Punctaj  Taxa  Statut
+----------------------------------------------------------------------------------------------
+1         1      Andrei                         CS:GO                        50       80     inactiv
+2         7      Raluca                         LOL                          40       120    inactiv

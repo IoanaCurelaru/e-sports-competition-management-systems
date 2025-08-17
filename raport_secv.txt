@@ -1,0 +1,12 @@
+Nr. crt.  ID     Nume                           Joc                         Punctaj  Taxa  Statut
+----------------------------------------------------------------------------------------------
+1         1      Andrei                         CS:GO                        50       80     inactiv
+2         2      Mihai                          CS:GO                        100      80     activ
+3         3      Gabriela                       CS:GO                        80       80     activ
+4         4      Ana                            FIFA                         75       100    activ
+5         5      George                         FIFA                         90       100    activ
+6         6      Mircea                         FIFA                         100      100    activ
+7         7      Raluca                         LOL                          40       120    inactiv
+8         8      Ema                            LOL                          75       120    activ
+9         9      Paul                           LOL                          100      120    activ
+10        10     Ion                            CS:GO                        75       80     activ
